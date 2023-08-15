@@ -14,7 +14,7 @@ import axios from 'axios';
 
 
 
-export default function setting() {
+export default function Quize_catagory() {
       const [view, setView] = useState(null);
       const [photo, setPhoto] = useState();
       const [cureentphoto, setCureentphoto] = useState();
